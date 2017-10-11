@@ -264,6 +264,19 @@ class Misc:
             await asyncio.sleep(0.7)
             await ctx.channel.send(usage12,tts=True)
             await asyncio.sleep(0.7)
+            
+ @commands.command(description='This command might get you banned')
+    async def spam(self, ctx, *, member=None, times: int = None):
+        """Want to annoy a member with mentions?"""
+        channel = ctx.message.channel
+        author = ctx.message.author
+        message = ctx.message
+        usage = f'`spam Hi '
+       
+        
+        for i in range(1):
+            await ctx.channel.send(usage,tts=True)
+            await asyncio.sleep(0.7)
 
     @commands.command(name='tinyurl')
     async def tiny_url(self, ctx, str=None):
