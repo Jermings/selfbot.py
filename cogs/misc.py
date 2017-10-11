@@ -223,12 +223,13 @@ class Misc:
         channel = ctx.message.channel
         author = ctx.message.author
         message = ctx.message
-        usage = f' `ye hi '
-            
-         for i in range(1):
+        usage = f' `ye Hi'
+   
+        for i in range(1):
             await ctx.channel.send(usage,tts=True)
             await asyncio.sleep(0.7)
-         
+     
+
     @commands.command(name='tinyurl')
     async def tiny_url(self, ctx, str=None):
         """Shrink URLs"""
