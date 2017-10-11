@@ -266,7 +266,7 @@ class Misc:
             await ctx.channel.send(usage12,tts=True)
             await asyncio.sleep(0.7)
        """     
-         usage = f'`ye hi'
+        usage = f' `ye hi '
             
          for i in range(1):
             await ctx.channel.send(usage,tts=True)
