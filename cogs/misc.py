@@ -226,8 +226,9 @@ class Misc:
         usage = f' `ye Hi'
    
         for i in range(1):
-            await ctx.channel.send(usage,tts=True)
             await asyncio.sleep(0.7)
+            await ctx.channel.send(usage,tts=True)
+            
      
 
     @commands.command(name='tinyurl')
