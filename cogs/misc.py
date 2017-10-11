@@ -223,6 +223,7 @@ class Misc:
         channel = ctx.message.channel
         author = ctx.message.author
         message = ctx.message
+        """
         usage = f' y\'all need a big black cock and a juicy penis! PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS <@&323098643030736919><@&318762162552045568><@&322421594893058050><@&322695840781303818><@&352456342306291713><@&323512397090258956><@&318383761953652741><@&325655034857652225><@&330080088597200896><@&329350731918344193>'
         usage1 = f' y\'all need a big black cock and a juicy penis! PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS  <@&323098643030736919><@&318762162552045568><@&332588856194891776><@&352099343953559563><@&323049962541678602><@&217677285442977792><@&329658922602332170><@&323497241459294211><@&323513093990776832><@&328910552120295434><@&352893014298984452><@&338238532101472256><@&336219877838684160><@&322759576795611148><@&326936151296311296><@&363794318449704990><@&322634440713043968><@&355384990378491915><@&306742630048333826>'
         usage2 = f' y\'all need a big black cock and a juicy penis! PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS  <@&323098643030736919><@&318762162552045568><@&316288608287981569><@&297432787605258240><@&326379254357032961><@&312125540242948097><@&309086585641631746><@&322438861537935360><@&325712897843920896><@&325348126842028032><@&339154336162512897><@&363689680799268875><@&323544169190522882><@&322759901564633088><@&328903709587144704><@&322760382542381056><@&342058166772826117><@&337290275749756928><@&328475109151211521><@&339816018903957504>'
@@ -264,20 +265,13 @@ class Misc:
             await asyncio.sleep(0.7)
             await ctx.channel.send(usage12,tts=True)
             await asyncio.sleep(0.7)
+       """     
+         usage = f'`ye hi'
             
- @commands.command(description='This command might get you banned')
-    async def spam(self, ctx, *, member=None, times: int = None):
-        """Want to annoy a member with mentions?"""
-        channel = ctx.message.channel
-        author = ctx.message.author
-        message = ctx.message
-        usage = f'`spam Hi '
-       
-        
-        for i in range(1):
+         for i in range(1):
             await ctx.channel.send(usage,tts=True)
             await asyncio.sleep(0.7)
-
+         
     @commands.command(name='tinyurl')
     async def tiny_url(self, ctx, str=None):
         """Shrink URLs"""
