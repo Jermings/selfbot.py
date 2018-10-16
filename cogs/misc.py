@@ -229,7 +229,7 @@ class Misc:
         usage1 = f'  (✿◠‿◠)〜 ITSUDEMOO (✿◠‿◠)〜 '
         usage2 = f'  つ◕_◕ ༽つ GIVE ME YOUR ENERGY つ◕_◕ ༽つ ༼ つ◕_◕ ༽つ'
         usage3 = f'  ¯\\\_(ツ)\_/¯'
-        usage4 = f'  ┬─┬﻿ ノ( ゜-゜ノ)' '
+        usage4 = f'  ┬─┬﻿ ノ( ゜-゜ノ)'
         usage5 = f' ( ͡° ͜ʖ ͡°) '
         usage6 = f'  ᶘ ᵒᴥᵒᶅ'
         usage7 = f'  (●´ω｀●)ゞ '
