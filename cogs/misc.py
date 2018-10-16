@@ -226,18 +226,18 @@ class Misc:
         message = ctx.message
 
         usage = f'  (╯°□°）╯︵ ┻━┻ '
-        usage1 = f'  (╯°□°）╯︵ ┻━┻ '
-        usage2 = f'  (╯°□°）╯︵ ┻━┻ '
-        usage3 = f'  (╯°□°）╯︵ ┻━┻'
-        usage4 = f'  (╯°□°）╯︵ ┻━┻ '
-        usage5 = f' (╯°□°）╯︵ ┻━┻ '
-        usage6 = f'  (╯°□°）╯︵ ┻━┻'
-        usage7 = f'  (╯°□°）╯︵ ┻━┻ '
-        usage8 = f' (╯°□°）╯︵ ┻━┻ '
-        usage9 = f'  (╯°□°）╯︵ ┻━┻ '
-        usage10 = f' (╯°□°）╯︵ ┻━┻ '
-        usage11 = f'  (╯°□°）╯︵ ┻━┻ '
-        usage12 = f'  `tt (╯°□°）╯︵ ┻━┻ '
+        usage1 = f'  (✿◠‿◠)〜 ITSUDEMOO (✿◠‿◠)〜 '
+        usage2 = f'  つ◕_◕ ༽つ GIVE ME YOUR ENERGY つ◕_◕ ༽つ ༼ つ◕_◕ ༽つ'
+        usage3 = f'  ¯\\\_(ツ)\_/¯'
+        usage4 = f'  ┬─┬﻿ ノ( ゜-゜ノ)' '
+        usage5 = f' ( ͡° ͜ʖ ͡°) '
+        usage6 = f'  ᶘ ᵒᴥᵒᶅ'
+        usage7 = f'  (●´ω｀●)ゞ '
+        usage8 = f' _(ˇωˇ」∠)_ 	 '
+        usage9 = f'  (｢･ω･)｢ '
+        usage10 = f' ヽ(⌐■_■)ノ♪♬'
+        usage11 = f'  (•_•) / ( •_•)>⌐■-■ / (⌐■_■) '
+        usage12 = f'  `tt (ノ￣ω￣)ノ'
         
         
        
