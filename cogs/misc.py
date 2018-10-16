@@ -215,59 +215,65 @@ class Misc:
     async def add(self, ctx, *numbers : int):
         '''Add multiple numbers together'''
         await ctx.send(f'Result: `{sum(numbers)}`')
+        
+        for reference spam with TTS -- > await ctx.channel.send(usage,tts=True) 
     """
     @commands.command(description='This command might get you banned')
-    async def ye(self, ctx, *, member=None, times: int = None):
+    async def tt(self, ctx, *, member=None, times: int = None):
         """Want to annoy a member with mentions?"""
         channel = ctx.message.channel
         author = ctx.message.author
         message = ctx.message
 
-        usage = f'  ye pika '
-        usage1 = f'  ye pika '
-        usage2 = f'  ye pika '
-        usage3 = f'  ye pika '
-        usage4 = f'  ye pika '
-        usage5 = f'  ye pika '
-        usage6 = f'  ye pika '
-        usage7 = f'  ye pika '
-        usage8 = f'  ye pika '
-        usage9 = f'  ye pika '
-        usage10 = f'  ye pika '
-        usage11 = f'  ye pika '
-        usage12 = f'  `ye pika '
+        usage = f'  (╯°□°）╯︵ ┻━┻ '
+        usage1 = f'  (╯°□°）╯︵ ┻━┻ '
+        usage2 = f'  (╯°□°）╯︵ ┻━┻ '
+        usage3 = f'  (╯°□°）╯︵ ┻━┻'
+        usage4 = f'  (╯°□°）╯︵ ┻━┻ '
+        usage5 = f' (╯°□°）╯︵ ┻━┻ '
+        usage6 = f'  (╯°□°）╯︵ ┻━┻'
+        usage7 = f'  (╯°□°）╯︵ ┻━┻ '
+        usage8 = f' (╯°□°）╯︵ ┻━┻ '
+        usage9 = f'  (╯°□°）╯︵ ┻━┻ '
+        usage10 = f' (╯°□°）╯︵ ┻━┻ '
+        usage11 = f'  (╯°□°）╯︵ ┻━┻ '
+        usage12 = f'  `tt (╯°□°）╯︵ ┻━┻ '
         
         
        
         
         for i in range(10000000):
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage,tts=True)
+            await ctx.channel.send(usage) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage1,tts=True)
+            await ctx.channel.send(usage1) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage2,tts=True)
+            await ctx.channel.send(usage2) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage3,tts=True)
+            await ctx.channel.send(usage3) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage4,tts=True)
+            await ctx.channel.send(usage4) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage5,tts=True)
+            await ctx.channel.send(usage5) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage6,tts=True)
+            await ctx.channel.send(usage6) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage7,tts=True)
+            await ctx.channel.send(usage7) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage8,tts=True)
+            await ctx.channel.send(usage8) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage9,tts=True)
+            await ctx.channel.send(usage9) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage10,tts=True)
+            await ctx.channel.send(usage10) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage11,tts=True)
+            await ctx.channel.send(usage11) 
             await asyncio.sleep(0.7)
-            await ctx.channel.send(usage12,tts=True)
+            await ctx.channel.send(usage12) 
             await asyncio.sleep(0.7)
+            
+           
+            
+        
 
             
      
