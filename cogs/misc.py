@@ -239,8 +239,9 @@ class Misc:
         usage11 = f'  (•_•) / ( •_•)>⌐■-■ / (⌐■_■) '
         usage12 = f'  `tt (ノ￣ω￣)ノ'
         
+        x = 1
         
-      
+        while x == 1:
             await asyncio.sleep(1.7)
             await ctx.channel.send(usage) 
             await asyncio.sleep(1.7)
