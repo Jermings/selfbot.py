@@ -240,9 +240,7 @@ class Misc:
         usage12 = f'  `tt (ノ￣ω￣)ノ'
         
         
-       
-        
-        for i in range(1):
+      
             await asyncio.sleep(1.7)
             await ctx.channel.send(usage) 
             await asyncio.sleep(1.7)
