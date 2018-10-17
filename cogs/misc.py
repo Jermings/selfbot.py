@@ -242,7 +242,7 @@ class Misc:
         
        
         
-        for i in range(10000000):
+        for i in range(1):
             await asyncio.sleep(0.7)
             await ctx.channel.send(usage) 
             await asyncio.sleep(0.7)
