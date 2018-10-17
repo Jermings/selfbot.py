@@ -237,38 +237,38 @@ class Misc:
         usage9 = f'  (｢･ω･)｢ '
         usage10 = f' ヽ(⌐■_■)ノ♪♬'
         usage11 = f'  (•_•) / ( •_•)>⌐■-■ / (⌐■_■) '
-        usage12 = f'  (ノ￣ω￣)ノ'
+        usage12 = f'  LOL YEAH (ノ￣ω￣)ノ'
         
         x = 1
         
         while x == 1:
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage1) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage2) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage3) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage4) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage5) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage6) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage7) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage8) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage9) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage10) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage11) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             await ctx.channel.send(usage12) 
-            await asyncio.sleep(1.7)
+            await asyncio.sleep(4.7)
             
            
             
